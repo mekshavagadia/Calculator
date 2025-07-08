@@ -9,31 +9,20 @@ A simple and stylish calculator built using *HTML, **CSS, and **JavaScript*. Thi
 - Simple and clean UI
 - Easy to use and modify
 
-## 📁 Project Structure
-
-
-CALCULATER/
-├── Index.html # Main HTML structure
-├── Style.css # Stylesheet for the UI
-├── Script.js # JavaScript logic
-
-
-
-
 ## 🛠️ How to Run
 
 1. Clone this repository:
    
-bash
+```bash
    git clone https://github.com/your-username/CALCULATER.git
-
+```
 2. Open the Index.html file in any modern browser.
 
 ✨ Customization
 Feel free to modify the styles in Style.css or enhance the logic in Script.js to add features like:
 
-  • Keyboard support
+    • Keyboard support
 
-  • Scientific functions
+    • Scientific functions
 
-  • Dark mode
+    • Dark mode
