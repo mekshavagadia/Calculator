@@ -14,7 +14,7 @@ A simple and stylish calculator built using *HTML, **CSS, and **JavaScript*. Thi
 1. Clone this repository:
    
 ```bash
-   git clone https://github.com/your-username/CALCULATER.git
+   git clone https://github.com/mekshavagadia/CALCULATER.git
 ```
 2. Open the Index.html file in any modern browser.
 
